@@ -1,0 +1,43 @@
+h1 {
+    color: red;
+}
+
+h3 {
+	color: lime;
+}
+
+li {
+	color: crimson;
+}
+
+li {
+	Font-size:140%;
+}
+
+
+body {
+	background-color: Cornsilk;
+}
+
+img {
+	height: 100px;
+	width: 500px;
+}
+
+input[type=text]{
+	width: 350px;
+	padding: 10px 10px;
+	margin: 18px 20;
+	box-sizing: hidden;
+}
+
+input{
+	border-radius: 100% / 40%;
+}
+
+.preference {
+	display: flex;
+	justify-content: space-between;
+	width: 10%;
+	margin: .3rem;
+}
